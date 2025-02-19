@@ -11,6 +11,10 @@ Este repositorio contiene un análisis completo de datos ficticios de un eCommer
   - `Hendylaset - ordenes.csv`
   - `Hendylaset - cart-items.csv`
 
+  - **Informe_Final/**  
+  Carpeta que contiene análisis detallado obtenido a partir de los datos en formato pdf. El archivo es el siguiente:
+  - `Informe E-Commerce 2013_Final.pdf`
+
 - **E-commerce_Analysis.ipynb**  
   Notebook principal en el que se realiza todo el proceso:
   - Limpieza y transformación de datos (tipos, valores nulos, normalización).
